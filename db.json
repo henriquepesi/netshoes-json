@@ -73,6 +73,35 @@
       "currencyId": "BRL",
       "currencyFormat": "R$",
       "isFreeShipping": false
+    },
+    {
+      "id": 1,
+      "image": "https://static.netshoes.com.br/produtos/camisa-corinthians-ii-1920-sn-torcedor-nike-masculina/26/HZM-1596-026/HZM-1596-026_zoom1.jpg",
+      "sku": 18644119330491312,
+      "title": "Camisa Nike Corinthians II",
+      "description": "14/15 s/nº",
+      "availableSizes": ["S", "G", "GG", "GGG"],
+      "style": "Preta com listras brancas",
+      "price": 229.9,
+      "installments": 9,
+      "currencyId": "BRL",
+      "currencyFormat": "R$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 2,
+      "image": "https://static.netshoes.com.br/produtos/camiseta-corinthians-tradicao-democracia-feminina/06/D65-1957-006/D65-1957-006_zoom1.jpg",
+      "sku": 11854078013954528,
+      "title": "Camisa Feminina Nike Corinthians I",
+      "description": "14/15 s/nº",
+      "availableSizes": ["S", "G"],
+      "style": "Branco com listras pretas",
+      "price": 199.9,
+      "installments": 7,
+      "currencyId": "BRL",
+      "currencyFormat": "R$",
+      "isFreeShipping": true
     }
   ]
 }
